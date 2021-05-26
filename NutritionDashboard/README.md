@@ -3,4 +3,4 @@ This Tableau dashboard is a simple yet effective combination of graphs that show
 The dashboard can be found here: https://public.tableau.com/app/profile/urvali7951/viz/Dashboard_16141315803930/Dashboard1
 
 A sample screenshot of the dashboard can be found below:
-
+![NutritionDashboard](https://github.com/UrvaliS/TableauDashboard/blob/main/NutritionDashboard/NutritionScreenshot.PNG)
