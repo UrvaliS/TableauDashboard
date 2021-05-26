@@ -6,5 +6,7 @@
 
 ![Alt text](/TableauDashboard/TheOffice/TheOfficeExcelScreenshot.PNG?raw=true "TheOfficeExcelScreenshot")
 
-![Alt text](http://full/TableauDashboard/TheOffice/TheOfficeExcelScreenshot.PNG "TheOfficeExcelScreenshot")
+![Alt text](http://full/TableauDashboard/TheOffice/TheOfficeExcelScreenshot.PNG)
+
+![TheOffice](https://github.com/UrvaliS/TableauDashboard/blob/main/TheOffice/TheOfficeExcelScreenshot.PNG)
 
